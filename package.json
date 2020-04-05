@@ -61,7 +61,7 @@
     "@types/react-dom": "16.9.0",
     "@types/react-redux": "7.1.2",
     "@typescript-eslint/eslint-plugin": "2.0.0",
-    "acorn": "6.1.1",
+    "acorn": "6.4.1",
     "ajv": "6.10.0",
     "autoprefixer": "9.5.1",
     "awesome-typescript-loader": "5.2.1",
